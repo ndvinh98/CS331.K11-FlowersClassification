@@ -1,7 +1,7 @@
 # CS331.K11 Flowers Recognition
 
 Sử dụng pre-trained model VGG16 của ImageNet để lấy các feature.
-Mang đi huấn luyện trên linearSVM, SVM với Polynomial Kernel, SVM với Gaussian Kernel và Softmax
+Mang đi huấn luyện trên linearSVM, SVM với Polynomial Kernel, SVM với Gaussian Kernel và Softmax để nhận diện 5 loài hoa sau: Hoa Hồng, Hoa Cúc, Hoa Bồ Công Anh, Hoa Hướng Dương và Hoa Tulip
 
 link dataset: https://www.kaggle.com/alxmamaev/flowers-recognition
 
