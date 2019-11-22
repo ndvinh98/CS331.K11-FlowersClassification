@@ -6,5 +6,9 @@ Mang đi huấn luyện trên linearSVM, SVM với Polynomial Kernel, SVM với 
 link dataset: https://www.kaggle.com/alxmamaev/flowers-recognition
 
 Tạo thư mục ML trong Drive và upload dataset.zip (giải nén phải ntn dataset/tên loài hoa/abcsd.jpg)
+
+
 Tạo thư mục backup trong ML
+
+
 Sử dụng GoogleColab kết nối với Drive để training.
