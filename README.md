@@ -1,4 +1,4 @@
-# CS331.K11 Flowers Recognition
+# CS331.K11 Flowers Classification
 
 Using pre-trained model VGG16 to extract features of image.
 
