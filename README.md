@@ -8,7 +8,7 @@ Rose, Daisy, Dandelion, Sunflower and Tulip
 link dataset: https://www.kaggle.com/alxmamaev/flowers-recognition
 
 
-### how to use
+### How to use?
 Creating 'ML' folder in Drive and upload dataset.zip
 
 
